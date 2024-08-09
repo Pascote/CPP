@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1723204220 source:/home/dell/Documents/cpp/LibrarySystem/main.cpp
+	<iostream>
+	<string>
+	<limits>
+	<vector>
+
